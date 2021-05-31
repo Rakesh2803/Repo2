@@ -1,0 +1,8 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3E9D-5BFC
+
+ Directory of C:\MyProject
+
+31-05-2021  21:28                 0 test1.txt
+               1 File(s)              0 bytes
+               0 Dir(s)  461,716,037,632 bytes free
